@@ -17,9 +17,23 @@ To verify:
 https://www.credly.com/badges/20f257e0-af1c-4ff4-8cb4-f2443229b77d/public_url
 https://www.credly.com/badges/e80a886c-352e-4c89-9374-f1c222fab989/public_url
 
+⚠️ LEGAL & ETHICAL DISCLAIMER
+Educational Purposes Only:
+This project and its documentation are created strictly for educational purposes and security research.
+
+Authorized Testing Only:
+The techniques demonstrated here must only be performed on networks and devices that you own or have explicit, written permission to test.
+
+No Liability:
+The author (Abdraouf Sendid) is not responsible for any misuse of this information or any damage caused by its application.
+
+Legal Warning:
+Unauthorized access to computer systems or networks is illegal and punishable by law. Always act ethically and stay within legal boundaries.
+
+
 Phase 1: Environment Preparation
-(<img width="634" height="410" alt="image" src="https://github.com/user-attachments/assets/0e6ff83b-064f-44d9-baac-cef368e65860" />
-)
+<img width="634" height="410" alt="image" src="https://github.com/user-attachments/assets/0e6ff83b-064f-44d9-baac-cef368e65860" />
+
 The wireless interface is transitioned from Managed to Monitor Mode to allow packet injection and sniffing.
 Tool Used: airmon-ng and airodump-ng.
 Command: sudo airodump-ng wlan0 to begin scanning the 802.11 spectrum.
