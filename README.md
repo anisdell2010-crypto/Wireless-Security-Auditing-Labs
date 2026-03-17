@@ -73,3 +73,5 @@ Upgrade to WPA3: Leveraging SAE (Simultaneous Authentication of Equals) to preve
 Enable PMF: Activating Protected Management Frames to stop unauthorized deauthentication packets.
 
 Strong Passphrase Policy: Using complex passwords with a mix of symbols and high entropy...
+
+Change Default Gateway Credentials: Updated the router's administrative password from the factory default to a strong, unique passphrase to prevent unauthorized configuration changes.
