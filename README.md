@@ -17,7 +17,9 @@ CISCO introduction Introduction to Cybersecurity:
 
 To verify:
 https://www.credly.com/badges/20f257e0-af1c-4ff4-8cb4-f2443229b77d/public_url
+
 https://www.credly.com/badges/e80a886c-352e-4c89-9374-f1c222fab989/public_url
+
 https://www.credly.com/badges/287b2ee6-cff8-4d87-ad7c-c494ad518ccf/public_url
 
 ⚠️ LEGAL & ETHICAL DISCLAIMER
